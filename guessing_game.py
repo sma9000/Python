@@ -1,10 +1,5 @@
 # Author: <Salma Awan>
-# Assignment #4 - Guessing Game
-# Date due: 2021-11-11
-# I pledge that I have completed this assignment without
-# collaborating with anyone else, in conformance with the
-# NYU School of Engineering Policies and Procedures on
-# Academic Misconduct.
+# Implementation of Guessing Game
 
 ####### DO NOT EDIT CODE BELOW (changing MAX_MISSES is ok) ########
 import random
