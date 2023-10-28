@@ -1,10 +1,5 @@
 # Author: <Salma Awan>
-# Assignment #3 - Blackjack
-# Date due: 2021-10-28
-# I pledge that I have completed this assignment without
-# collaborating with anyone else, in conformance with the
-# NYU School of Engineering Policies and Procedures on
-# Academic Misconduct.
+# Implementation of BlackJack Game
 
 import random
 
